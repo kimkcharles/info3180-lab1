@@ -9,7 +9,6 @@ body {
   margin: 0 auto;
 }
 
-/*my stuff*/
 
 body{
   background-color: #2f2fa2;
@@ -24,7 +23,6 @@ h1{
   margin: 0px;
   color: #f64c72;
   background-color: #e3afbc;
-  /*background-color: #7375d9;*/
   border-radius: 30px/10px;
 }
 p{
@@ -32,5 +30,5 @@ p{
   line-height: 1.4;
   border-radius: 35px 35px 0px;;
   border:10px double #f64c72;
-  padding-bottom:50px
+  padding:20px 10px 50px 10px;
 }
