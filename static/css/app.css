@@ -8,3 +8,29 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+/*my stuff*/
+
+body{
+  background-color: #2f2fa2;
+  color: white;
+  text-align:center;
+  margin: 50px 35px;
+ 
+}
+h1{
+  font-size: 4em;
+  border:10px double #f64c72;
+  margin: 0px;
+  color: #f64c72;
+  background-color: #e3afbc;
+  /*background-color: #7375d9;*/
+  border-radius: 30px/10px;
+}
+p{
+  font-size: 1.7em;
+  line-height: 1.4;
+  border-radius: 35px 35px 0px;;
+  border:10px double #f64c72;
+  padding-bottom:50px
+}
